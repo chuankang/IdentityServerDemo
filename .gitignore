@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/EDC.IdentityServer4.Demo/v15/Server/sqlite3/db.lock
+/Manulife.DNC.MSAD.IdentityServer4Test
+/Manulife.DNC.MSAD.IdentityServer4Test.ApiService01
+/Manulife.DNC.MSAD.IdentityServer4Test.ApiService02
+/Manulife.DNC.MSAD.IdentityServer4Test.MvcClient
